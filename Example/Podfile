@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FHXPreviewVC_Example' do
+  pod 'FHXPreviewVC', :path => '../'
+
+  target 'FHXPreviewVC_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

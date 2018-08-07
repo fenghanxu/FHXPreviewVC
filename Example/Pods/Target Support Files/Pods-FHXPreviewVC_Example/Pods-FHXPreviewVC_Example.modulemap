@@ -1,0 +1,6 @@
+framework module Pods_FHXPreviewVC_Example {
+  umbrella header "Pods-FHXPreviewVC_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

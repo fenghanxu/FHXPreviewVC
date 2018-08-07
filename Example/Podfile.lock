@@ -1,0 +1,22 @@
+PODS:
+  - FHXPreviewVC (0.1.0):
+    - Kingfisher
+    - SnapKit
+  - Kingfisher (4.8.1)
+  - SnapKit (4.0.0)
+
+DEPENDENCIES:
+  - FHXPreviewVC (from `../`)
+
+EXTERNAL SOURCES:
+  FHXPreviewVC:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FHXPreviewVC: 5184f4502e8a0e9e74c46818a2b16167c03d35a7
+  Kingfisher: 868c1149679a7ab6869be118faa9b5aed154aaf0
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+
+PODFILE CHECKSUM: e002bb2116363b1cd67a1f52c08e0f9e6dceca62
+
+COCOAPODS: 1.4.0
